@@ -1,0 +1,25 @@
+
+root { 
+    display: block;
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+    background-color: #103072;
+}
+
+.table {
+    background-image: url(http://musicwallpapers.net/y/wallpapers/Yngwie_Malmsteen/big/Yngwie_Malmsteen_7.jpg);
+    background-position: 30% 30%;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    font-size: 40px;
+    color: #10b16f;
+}
+body{ 
+    background-color: black;
+    color: red;} 
+p { color: blue; } 
+

@@ -1,0 +1,41 @@
+/* 
+    Document   : style
+    Created on : Jan 8, 2012, 7:39:55 PM
+    Author     : konanast
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+    background-color: #103072;
+}
+
+.table {
+    background-image: url(yngwie.jpg);
+    background-position: 30% 30%;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    font-size: 40px;
+    color: #10b16f;
+}
+body{ background-color: black;} 
+p { color: blue;
+    font-size: 20px;} 
+
+.download {
+    color:#e31cc5;
+    text-align: right;
+    font-size: 30px;
+}
